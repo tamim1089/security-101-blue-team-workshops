@@ -12,7 +12,7 @@ This workshop series takes a practical approach to teaching blue team security s
 
 ## Workshop Breakdown
 
-### [Workshop 1: Introduction to Cybersecurity](./workshop-1-intro-to-cybersecurity)
+### [Workshop 1: Introduction to Cybersecurity](./Workshop-1)
 **Duration**: 90 minutes  
 **Type**: Lecture + Discussion
 
@@ -24,7 +24,7 @@ Introduction to core cybersecurity concepts and the blue team mindset. Covers th
 - Blue team career paths: SOC analyst, incident responder, digital forensics, malware analyst
 - Why security must be built into systems from the start
 
-### [Workshop 2: Linux Fundamentals](./workshop-2-linux-fundamentals)
+### [Workshop 2: Linux Fundamentals](./Workshop-2)
 **Duration**: 90 minutes  
 **Type**: Hands-on Lab
 
@@ -39,7 +39,7 @@ Practical introduction to Linux command line essentials. Students connect via SS
 
 **Lab Setup**: SSH access to individual Docker containers running Debian
 
-### [Workshop 3: Security Monitoring with Wazuh](./workshop-3-wazuh-siem)
+### [Workshop 3: Security Monitoring with Wazuh](./Workshop-3)
 **Duration**: 60 minutes  
 **Type**: Interactive Dashboard Demo
 
@@ -54,7 +54,7 @@ Introduction to Security Information and Event Management (SIEM) using Wazuh. Li
 
 **Lab Setup**: Hosted Wazuh server with Raspberry Pi agent, live SSH brute force demonstration
 
-### [Workshop 4: Malware Analysis with Machine Learning](./workshop-4-malware-analysis-ml)
+### [Workshop 4: Malware Analysis with Machine Learning](./Workshop-4)
 **Duration**: 90 minutes  
 **Type**: Theory + Code Walkthrough
 
